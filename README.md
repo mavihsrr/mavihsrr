@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shivam 👋🏾 
 #### AI ML enthusiast
-![AI ML enthusiast](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c6fa0e81436849.5cffaef4c9203.gif)
+![AI ML enthusiast](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8fe6da81436849.5cffaef4c8c0a.gif)
 
 A computer science undergrad who's into AI ML and mathematics ; 
 

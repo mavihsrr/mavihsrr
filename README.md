@@ -4,7 +4,8 @@
 
 A computer science undergrad who's into AI ML and mathematics ; 
 
-Skills: ⌨️Python 
+Skills:
+⌨️Python 
 
 📈Machine Learning 
 

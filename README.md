@@ -4,7 +4,13 @@
 
 A computer science undergrad who's into AI ML and mathematics ; 
 
-Skills: ⌨️Python 📈Machine Learning 🖲C 📟Linux
+Skills: ⌨️Python 
+
+📈Machine Learning 
+
+🖲C 
+
+📟Linux
 
 - 🌱 I’m currently learning Deep Learning and Photoshop! 
 - 👯 I’m looking to collaborate on projects that require ML knowledge! 

@@ -1,4 +1,4 @@
-### ⬜️⬜️Hi, I'm Shivam Umang Mitter⬜️⬜️ 👋🏾 
+### ⬜️⬜️Hi, I'm Shivam⬜️⬜️ 👋🏾 
 #### AI ML enthusiast
 ![AI ML enthusiast](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8fe6da81436849.5cffaef4c8c0a.gif)
 

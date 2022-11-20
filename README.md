@@ -9,7 +9,8 @@ Skills:
 
 📈Machine Learning 
 
-🖲C 
+🖲C
+⚡C++
 
 📟Linux
 

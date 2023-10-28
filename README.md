@@ -1,5 +1,5 @@
-### ⬜️⬜️Hi, I'm Shivam⬜️⬜️ 👋🏾 
-#### AI ML enthusiast
+### Hi, I'm Shivam 👋🏾 
+#### Undergraduate | AI ML enthusiast
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mavihsrr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

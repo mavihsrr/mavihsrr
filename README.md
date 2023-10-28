@@ -1,7 +1,7 @@
 ### ⬜️⬜️Hi, I'm Shivam⬜️⬜️ 👋🏾 
 #### AI ML enthusiast
 ![AI ML enthusiast]
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mavihsrr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 A computer science undergrad who's into AI ML and mathematics ; 
 

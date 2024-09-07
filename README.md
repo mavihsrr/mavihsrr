@@ -14,7 +14,7 @@ I'm a passionate AI and ML enthusiast currently pursuing my undergraduate studie
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,aws,flask,mysql,r" />
   </a>
 </p>
 

@@ -1,26 +1,64 @@
-### Hi, I'm Shivam 👋🏾 
-#### Undergraduate | AI ML enthusiast
+# 👋 Hi, I'm Shivam Mitter
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mavihsrr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## AI/ML Enthusiast | Undergraduate
 
+---
 
-Skills:
-⌨️Python 
+### 🚀 About Me
 
-📈Machine Learning 
-📈Deep Learning
-🖲C
-⚡C++
+I'm a passionate AI and ML enthusiast currently pursuing my undergraduate studies. I love exploring new technologies and collaborating on projects that push the boundaries of innovation.
 
-📟Linux
+---
 
-- 🌱 I’m currently learning Deep Learning and Photoshop! 
-- 👯 I’m looking to collaborate on projects that require ML knowledge! 
-- ⚡ Fun fact: I'm not good at remebering names ): 
+### 🛠 Skills
 
-<img src="https://github-profile-trophy.vercel.app/?username=mavihsrr&theme=juicyfresh&no-bg=true" />
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+- **Languages:** Python, C, C++
+- **Technologies:** Machine Learning, Deep Learning, Linux
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mavihsrr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivammitter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shivammitter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shivammitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/shivammitter)  
+---
 
-![Profile views](https://gpvc.arturio.dev/mavihsrr)  
+### 🌱 Currently Learning
+
+- Deep Learning
+- Photoshop
+
+---
+
+### 🎯 Goals
+
+- Collaborate on impactful ML projects
+- Continuously improve my knowledge and skills
+
+---
+
+### ⚡ Fun Fact
+
+I'm not great at remembering names, but I never forget a good algorithm! 😄
+
+---
+
+### 📊 GitHub Stats
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavihsrr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavihsrr&layout=compact&theme=radical)
+
+---
+
+### 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mavihsrr&theme=darkhub&no-frame=true&margin-w=15)
+
+---
+
+### 🤝 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mavihsrr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivammitter/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivammitter/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivammitter)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivammitter)
+
+---
+
+![Profile Views](https://gpvc.arturio.dev/mavihsrr)

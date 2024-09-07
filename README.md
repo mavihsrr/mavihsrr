@@ -66,15 +66,6 @@ I'm not great at remembering names, but I never forget a good algorithm! 😄
   <a href="https://huggingface.co/mavihsrr">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFBB00?style=for-the-badge&logo=hugging-face&logoColor=white" alt="Hugging Face" />
   </a>
-  <a href="https://www.instagram.com/shivammitter/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/shivammitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.kaggle.com/shivammitter">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
 </p>
 
 ---

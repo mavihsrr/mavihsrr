@@ -53,11 +53,8 @@ I'm not great at remembering names, but I never forget a good algorithm! 😄
 
 ### 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mavihsrr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivammitter/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivammitter/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivammitter)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivammitter)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBB00?style=for-the-badge&logo=hugging-face&logoColor=white)](https://huggingface.co/mavihsrr)
+
 
 ---
 

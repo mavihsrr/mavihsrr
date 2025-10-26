@@ -19,14 +19,10 @@ optimization    • making it faster
 
 **currently**
 
-building models that think
-researching optimal architectures
-exploring what's possible at scale
+building cool side projects
 
 **motivation**
 
 code is the closest thing to magic we have
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[github](https://github.com/mavihsrr)

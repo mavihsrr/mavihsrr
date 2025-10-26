@@ -1,30 +1,36 @@
-# 👋 Hi, I'm Shivam Mitter
+# 𝓗𝓪𝓬𝓴𝓮𝓻 𝓣𝓱𝓮𝓶𝓮𝓭 𝓡𝓮𝓪𝓭𝓶𝓮
 
-## AI/ML Engineer
+```plaintext
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗   ██╗
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║   ██║
+██████╔╝███████║███████║██║   ██║██║   ██║
+██╔═══╝ ██╔══██║██╔══██║██║   ██║██║   ██║
+██║       ██║  ██║██║  ██║╚██████╔╝╚██████╔╝
+╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+```  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+## Welcome to the 𝓗𝓪𝓬𝓴𝓮𝓻 𝓣𝓱𝓮𝓶𝓮𝓭 𝓡𝓮𝓪𝓭𝓶𝓮
 
----
+Dive into the world of coding with a hacker's mindset. 🖥️
 
-I waste my time doing AI :)
+### Features
+- Minimalistic design
+- Clean layout
+- Cyberpunk aesthetics
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="400">
-</p>
+### Getting Started
+To get started with this project, clone the repository:
 
----
+```bash
+git clone https://github.com/mavihsrr/mavihsrr.git
+```
 
-### 🛠 Skills
+### Contributing
+Feel free to contribute by submitting a pull request. Let's build something amazing together!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF4F00?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
+### License
+This project is licensed under the MIT License.
 
---
+---  
+Stay curious, stay coding.  
+✨  

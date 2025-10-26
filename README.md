@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Shivam Mitter
 
-## AI/ML Engineer | Undergraduate
+## AI/ML Engineer
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
 ---
-
-### 🚀 About Me
 
 I waste my time doing AI :)
 
